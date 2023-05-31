@@ -1,0 +1,22 @@
+.navbar-nav > li {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.navbar-nav li {
+    padding: 10px;
+  }
+  
+  .navbar-nav li a {
+    color: #61a140;
+    text-decoration: none;
+  }
+  
+  .navbar-nav li a:hover {
+    color: #ff0000;
+    background-color: #f8f8f8;
+  }
+
+  .navbar-nav li.active a {
+    font-weight: bold;
+    text-decoration: none;
+  }
